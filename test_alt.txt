@@ -1,0 +1,9 @@
+5
+A B 1
+A C 10
+B C 8
+A D 2
+D C 3
+C R 1
+R D 1
+D K 2
